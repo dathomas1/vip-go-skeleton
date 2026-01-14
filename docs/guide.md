@@ -1,5 +1,8 @@
 - Course on Block Development: https://olliewp.com/lesson/wordpress-set-up/
 
+## Necesssary NPM Packages
+- npm install @wordpress/scripts –save-dev
+
 ## Helpful WordPress Development Plugins
 - Query Monitor (recommended by everyone)
 - Debug Bar
