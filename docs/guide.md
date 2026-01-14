@@ -8,3 +8,6 @@
 ## Helpful Browser Extensions
 - React Developer Tools
 - Redux Dev Tools
+
+## Interesting Plugins
+- Sensai LMS free
