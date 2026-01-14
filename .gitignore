@@ -18,6 +18,13 @@ node_modules
 /plugins/two-factor/
 /plugins/vaultpress/
 
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+
 # Uploads directory
 /uploads/
 
