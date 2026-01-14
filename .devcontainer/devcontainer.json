@@ -146,7 +146,11 @@
         "ghcr.io/automattic/vip-codespaces/ssh:latest": {
             // Set to true to enable an SSH server for the Codespaces environment.
             "enabled": false
-        }
+        },
+        "ghcr.io/devcontainers/features/node:1": {
+            "version": "20"
+        },
+        "ghcr.io/Automattic/vip-codespaces/playwright:1": {}
     },
     // *****************************
     // *** Environment variables ***
@@ -160,12 +164,13 @@
             "extensions": [
                 "dlech.chmod",
                 "dbaeumer.vscode-eslint",
-                "GitHub.copilot",
                 "esbenp.prettier-vscode",
                 "timonwong.shellcheck",
                 "ms-azuretools.vscode-docker",
                 "zhiayang.tabindentspacealign",
                 "emilast.LogFileHighlighter",
+                "johnbillion.vscode-wordpress-hooks",
+                "ms-playwright.playwright",
                 "automattic.logwatcher"
             ]
         }
