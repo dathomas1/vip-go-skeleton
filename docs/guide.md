@@ -1,5 +1,6 @@
 - Course on Block Development: https://olliewp.com/lesson/wordpress-set-up/
 - Use wp-scripts: https://developer.wordpress.org/block-editor/getting-started/devenv/get-started-with-wp-scripts/
+- Using RichText component for blocks: https://developer.wordpress.org/block-editor/reference-guides/richtext/
 
 ## Necesssary NPM Packages
 - npm install @wordpress/scripts –save-dev
