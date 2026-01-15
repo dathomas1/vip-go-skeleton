@@ -1,6 +1,8 @@
 - Course on Block Development: https://olliewp.com/lesson/wordpress-set-up/
 - Use wp-scripts: https://developer.wordpress.org/block-editor/getting-started/devenv/get-started-with-wp-scripts/
 - Using RichText component for blocks: https://developer.wordpress.org/block-editor/reference-guides/richtext/
+- Use Latest Posts Block as template for latest Events: https://github.com/WordPress/gutenberg/tree/5874eb9047dcce2a0ec336ea14a29e7a74e0cef9/packages/block-library/src/latest-posts
+- or https://developer.wordpress.org/block-editor/how-to-guides/block-tutorial/extending-the-query-loop-block/
 
 ## Necesssary NPM Packages
 - npm install @wordpress/scripts –save-dev
