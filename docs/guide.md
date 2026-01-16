@@ -4,6 +4,7 @@
 - Use Latest Posts Block as template for latest Events: https://github.com/WordPress/gutenberg/tree/5874eb9047dcce2a0ec336ea14a29e7a74e0cef9/packages/block-library/src/latest-posts
 - or https://developer.wordpress.org/block-editor/how-to-guides/block-tutorial/extending-the-query-loop-block/
 - https://support.advancedcustomfields.com/forums/topic/wp_query-orderby-acf-date-picker-field/
+- Dev resources: https://github.com/auralisx/wordpress-development-resources
 
 ## Necesssary NPM Packages
 - npm install @wordpress/scripts –save-dev
